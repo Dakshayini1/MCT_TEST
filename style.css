@@ -282,6 +282,9 @@
     color: white;
     transition: max-height 0.5s ease-in-out;
   }
+.faq_TITLE:hover{
+    background-color: #494040;
+}
   
   .FAQ_visible {
     background-color: #303030;
